@@ -1,2 +1,5 @@
 Value1: some-val
 Value2: another-val
+ValuesConfig:
+  Prop1: hola
+  Prop2: adios
